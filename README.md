@@ -1,2 +1,2 @@
-### pullrequest
-Na aula de hoje aprendemos sobre a plataforma git hub
+### pullrequest2
+Foi feita a atividade de um segundo pull request
